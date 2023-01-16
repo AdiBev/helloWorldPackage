@@ -10,6 +10,9 @@
     "type": "git",
     "url": "git+https://github.com/AdiBev/helloWorldPackage.git"
   },
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com"
+  },
   "keywords": [
     "hello",
     "world"
