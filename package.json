@@ -1,5 +1,5 @@
 {
-  "name": "@AdiBev/helloworldpackage",
+  "name": "helloworldpackage",
   "version": "1.0.0",
   "description": "A simple npm package which says hello world",
   "main": "index.js",
